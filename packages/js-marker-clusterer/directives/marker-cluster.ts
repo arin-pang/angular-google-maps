@@ -1,6 +1,6 @@
 import { Directive, EventEmitter, Input, OnChanges, OnDestroy, OnInit, Output, SimpleChange } from '@angular/core';
 
-import { InfoWindowManager, MarkerManager } from '@agm/core';
+import { InfoWindowManager, MarkerManager } from '@arin-pang-agm/core';
 import { ClusterManager } from '../services/managers/cluster-manager';
 
 import { CalculateFunction, ClusterOptions, ClusterStyle } from '../services/google-clusterer-types';

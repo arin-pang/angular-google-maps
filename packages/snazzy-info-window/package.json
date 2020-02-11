@@ -13,7 +13,7 @@
   ],
   "peerDependencies": {
     "@angular/core": "^6.0.0 || ^7.0.0 || ^8.0.0",
-    "@agm/core": "^1.0.0-beta.7",
+    "@arin-pang-agm/core": "^1.0.0-beta.7",
     "snazzy-info-window": "^1.1.0"
   },
   "ngPackage": {
@@ -21,10 +21,10 @@
       "entryFile": "./index.ts",
       "umdId": "ngmaps.snazzyInfoWindow",
       "umdModuleIds": {
-        "@agm/core": "ngmaps.core",
+        "@arin-pang-agm/core": "ngmaps.core",
         "snazzy-info-window": "SnazzyInfoWindow"
       }
     },
-    "dest": "../../dist/@agm/snazzy-info-window"
+    "dest": "../../dist/@arin-pang-agm/snazzy-info-window"
   }
 }

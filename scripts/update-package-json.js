@@ -6,7 +6,7 @@ const path = require('path');
 
 const rootPkgJson = JSON.parse(fs.readFileSync('./package.json', 'utf8'));
 
-const DIST = './dist/@agm';
+const DIST = './dist/@arin-pang-agm';
 
 fs.readdirSync(DIST).forEach(function(file) {
   const pkgPath = path.join(DIST, file, 'package.json');

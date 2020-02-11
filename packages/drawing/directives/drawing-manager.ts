@@ -1,4 +1,4 @@
-import { Circle, CircleOptions, GoogleMap, MapsEventListener, Marker, MarkerOptions, MVCObject, Polygon, PolygonOptions, Polyline, PolylineOptions, Rectangle, RectangleOptions } from '@agm/core/services/google-maps-types';
+import { Circle, CircleOptions, GoogleMap, MapsEventListener, Marker, MarkerOptions, MVCObject, Polygon, PolygonOptions, Polyline, PolylineOptions, Rectangle, RectangleOptions } from '@arin-pang-agm/core/services/google-maps-types';
 import { Directive, EventEmitter, Input, isDevMode, NgZone, OnChanges, OnDestroy, Output, SimpleChanges } from '@angular/core';
 import { fromEventPattern, Observable, Subscription } from 'rxjs';
 import { DrawingControlOptions, OverlayCompleteEvent, OverlayType } from '../google-drawing-types';

@@ -11,16 +11,16 @@
   ],
   "peerDependencies": {
     "@angular/core": "^7.0.0 || ^8.0.0",
-    "@agm/core": "^1.0.0"
+    "@arin-pang-agm/core": "^1.0.0"
   },
   "ngPackage": {
     "lib": {
       "entryFile": "./index.ts",
       "umdId": "ngmaps.drawing",
       "umdModuleIds": {
-        "@agm/core": "ngmaps.core"
+        "@arin-pang-agm/core": "ngmaps.core"
       }
     },
-    "dest": "../../dist/@agm/drawing"
+    "dest": "../../dist/@arin-pang-agm/drawing"
   }
 }

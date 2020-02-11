@@ -21,6 +21,6 @@
       "entryFile": "./index.ts",
       "umdId": "ngmaps.core"
     },
-    "dest": "../../dist/@agm/core"
+    "dest": "../../dist/@arin-pang-agm/core"
   }
 }

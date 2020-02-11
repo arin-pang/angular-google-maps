@@ -1,4 +1,4 @@
-import { Circle, ControlPosition, Marker, Polygon, Polyline, Rectangle } from '@agm/core/services/google-maps-types';
+import { Circle, ControlPosition, Marker, Polygon, Polyline, Rectangle } from '@arin-pang-agm/core/services/google-maps-types';
 
 export enum OverlayType {
   CIRCLE = 'circle',
