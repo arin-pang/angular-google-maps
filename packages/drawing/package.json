@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/package.schema.json",
-  "name": "@agm/drawing",
+  "name": "@arin-pang-agm/drawing",
   "description": "Angular Google Maps (AGM) extension for google maps drawing library",
   "keywords": [
     "angular-google-maps",

@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/package.schema.json",
-  "name": "@agm/js-marker-clusterer",
+  "name": "@arin-pang-agm/js-marker-clusterer",
   "description": "Angular Google Maps (AGM) extension for js-marker-clusterer support",
   "author": "Jens Fahnenbruck <jigfox@me.com>",
   "keywords": [

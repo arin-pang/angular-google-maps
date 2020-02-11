@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/package.schema.json",
-  "name": "@agm/core",
+  "name": "@arin-pang-agm/core",
   "description": "Angular components for Google Maps",
   "author": "Sebastian Holstein <info@sebastian-holstein.de>",
   "keywords": [

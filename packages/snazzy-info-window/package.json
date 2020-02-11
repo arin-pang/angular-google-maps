@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/package.schema.json",
-  "name": "@agm/snazzy-info-window",
+  "name": "@arin-pang-agm/snazzy-info-window",
   "description": "Angular Google Maps (AGM) package for Snazzy Info Window support",
   "author": "Sebastian Holstein",
   "keywords": [
